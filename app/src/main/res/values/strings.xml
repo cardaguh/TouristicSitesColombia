@@ -2,4 +2,10 @@
     <string name="app_name">Sitios Turisticos Colombia</string>
     <string name="empty_list">No se encontraros sitios turísticos!</string>
     <string name="an_error_occurred">Ocurrió un error!</string>
+    <string name="user_name">Enter User Name</string>
+    <string name="user_password">Enter User Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Enter Email</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
