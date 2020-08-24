@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sitios Turisticos Colombia</string>
+    <string name="empty_list">No se encontraros sitios turísticos!</string>
+    <string name="an_error_occurred">Ocurrió un error!</string>
+</resources>
